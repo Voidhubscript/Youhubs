@@ -1,4 +1,4 @@
-# Youhubs
+# Youhub
 local WorkspacePlayers = game:GetService("Workspace").Game.Players;
 local Players = game:GetService('Players');
 local localplayer = Players.LocalPlayer;
